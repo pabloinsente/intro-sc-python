@@ -23,7 +23,7 @@ In this mini-workshop, I focus in the fundamentals of **NumPy** and **Pandas** f
 
 I'll cover the following topics:
 
-1. IDE: Integrated Development Environments
+1. Introduction to Jupyter Notebooks: set-up, user-guide, and best practices
 2. Introduction to Python basics
 3. Introduction to NumPy 
 4. Introduction to Pandas 
