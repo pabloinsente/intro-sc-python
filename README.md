@@ -45,7 +45,9 @@ If you are a beginner, [GitBash](https://gitforwindows.org/) and [Cygwin](https:
 
 ### Option 1: Cloud-based environment (prefered)
 
-Click in the ```binder``` icon -> [![Binder](https://mybinder.org/badge_logo.svg)]()
+Click in the ```binder``` icon -> 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pabloinsente/intro-sc-python/master/?urlpath=lab)
 
 This will build an online development environment with the repository contents. Beware that it may take 2-3 minutes to be ready.
 
