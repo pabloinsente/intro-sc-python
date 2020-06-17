@@ -1,4 +1,4 @@
-# Introduction to Scientific Computing with Python - Mini-workshop
+# Introduction to Scientific Computing with Python - Mini-workshop - 2020 
 
 Python is a general purpose programming languague that has become the leader in the [scientific computing and data science landscape](https://towardsdatascience.com/kaggle-user-survey-2019-326e187ff207). 
 
@@ -23,9 +23,9 @@ In this mini-workshop, I focus in the fundamentals of **NumPy** and **Pandas** f
 
 I'll cover the following topics:
 
-1. Introduction to Jupyter Notebooks: set-up, user-guide, and best practices
+1. Introduction to Jupyter Notebooks: set-up, user-guide, and best practices  ![progress](https://progress-bar.dev/100/ "progress")
 2. Introduction to Python basics
-3. Introduction to NumPy 
+3. Introduction to NumPy   ![progress](https://progress-bar.dev/10/ "progress")
 4. Introduction to Pandas 
 
 The content of each section will be delivered as a Jupyter Notebook.
