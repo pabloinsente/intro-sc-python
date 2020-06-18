@@ -10,13 +10,17 @@
 
 The rest of the content is really useful, but not strictly required to use the shell.
 
-**NOTE**:There is a GitHub repository (here) associated with this tutorial that you can clone to follow along. You should also be able to recreate the contents of this tutorial in your own machine by simply typing everythin in the shell. If you are not comfortable using Git/Github, you still can read this as a conceptual introduction with examples.
+**NOTE 1**: Apologies for typos and misspelled words in advance. This document has not been proofread (yet).
+
+**NOTE 2**: There is a GitHub repository ([here](https://github.com/pabloinsente/intro-sc-python)) associated with this tutorial that you can clone to follow along. You should also be able to recreate the contents of this tutorial in your own machine by simply typing everythin in the shell. If you are not comfortable using Git/Github, you still can read this as a conceptual introduction with examples.
 
 **NOTE FOR WINDOWS USERS**: As Windows is not an Unix-like or Linux-based system, most the commands and examples here won't work, as the Windows Command Prompt and the Windows Power Shell are not bash based. You have a couple of options to follow along:
 
 1. downloading and installing terminal emulators like [GitBash](https://gitforwindows.org/) and [Cygwin](https://www.cygwin.com/)
 2. to install the [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
-3. open the GitHub repository associated with this tutorial in the cloud environment provided by MyBinder by clicking the icon below, and open a terminal there. To open a terminal simply go to "File -> New -> Terminal". [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pabloinsente/intro-sc-python/master/?urlpath=lab)
+3. open the GitHub repository associated with this tutorial in the cloud environment provided by **MyBinder** by clicking the icon below. Once the environment is ready (it may take a couple of minutes to build), open a terminal there. To open a terminal simply go to "File -> New -> Terminal" or click on the "Terminal" icon under the "Other" section in the landing page. The file with this tutorial is in  `unix-shell/` directory named as **unix_shell.md**
+
+**To open MyBinder** -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pabloinsente/intro-sc-python/master/?urlpath=lab)
 
 If you are a beginner, [GitBash](https://gitforwindows.org/) and [Cygwin](https://www.cygwin.com/) should work just fine, and easier to set-up. The MyBinder environment is a good option too, but you won't be able to save your work. I do not advise trying (WSL) unless you feel comfortable with using the terminal already. Yet, WSL is the best long-term solution for Windows users.
 
@@ -25,7 +29,15 @@ If you are a beginner, [GitBash](https://gitforwindows.org/) and [Cygwin](https:
 - [What is the UNIX shel](#what-is-the-unix-shell)
 - [Why to use the UNIX shell](#why-to-use-the-unix-shell)
 - [Shell syntax basics](#shell-syntax-basics)
+- [Standard input, output, and error](#standard-input-output-and-error)
+- [Shell commands basics](#shell-commands-basics)
+  - [Single commands](#single-commands)
+  - [Composed commands](#composed-commands)
 - [A curated list of basic shell commands](#a-curated-list-of-basic-shell-commands)
+  - [Basic commands](#basic-commands)
+  - [File commands](#file-commands)
+  - [Directory commands](#directory-commands)
+  - [System commands](#system-commands)
 
 ## What is the UNIX shell
 
@@ -840,25 +852,16 @@ The empty.txt file now must contain the "cat: nonexistent-file.txt: No such file
 
 [back to top](#the-unix-shell)
 
-**Future sections**:
+## Future sections
 
-## Shell functions basics
+This tutorial is not complete. I was not planning to release this yet, but it became necessary to help out some students to learn shell basics. These are the topics I hope to cover later.
 
-## Shell variables basics
-
-## Shell flow control basics
-
-## Shell pattern matching basics
-
-## Shell scripting basics
-
-## Alternative shells
-
-- Z shell
-- Fish shell
-- C shell
-- Korn shell
-
-## Additional resources to learn
+- Shell functions basics
+- Shell variables basics
+- Shell flow control basics
+- Shell pattern matching basics
+- Shell scripting basics
+- Alternative shells
+- Additional resources to learn
 
 [back to top](#the-unix-shell)
