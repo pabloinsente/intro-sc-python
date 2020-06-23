@@ -1,5 +1,8 @@
 # Introduction to Scientific Computing with Python - Mini-workshop - 2020 
 
+Some random change
+
+
 Python is a general purpose programming languague that has become the leader in the [scientific computing and data science landscape](https://towardsdatascience.com/kaggle-user-survey-2019-326e187ff207).
 
 ![Kaggle Survey 2019](./assets/survey-python.png)
