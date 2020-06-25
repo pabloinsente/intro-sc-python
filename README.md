@@ -1,7 +1,4 @@
-# Introduction to Scientific Computing with Python - Mini-workshop - 2020 
-
-Some random change
-
+# Python Tools for Data Science, Machine Learning and Scientific computing - 2020
 
 Python is a general purpose programming languague that has become the leader in the [scientific computing and data science landscape](https://towardsdatascience.com/kaggle-user-survey-2019-326e187ff207).
 
@@ -10,17 +7,19 @@ Source: Kaggle Survey 2019
 
 Python success has been driven primarily because of its **intuitive syntaxis**, **flexibility**, and **extensivility**, meaning that it's easy to learn, it can be used for a wide variety of taks, and incorporating numerical computing libraries written in high-performance languages like C++ and Fortran is straightforward. Additionally, Python benefits from a large and strong community of developers commited to free and open source software.  
 
-Python libraries for scientific computing and data science are **extensive**, **secure**, and **mature**. Companies like Google, Microsoft, Apple, Dropbox, and Netflix, use Python for several critical applications, in particular the ones based on data processing and machine learning. Companies like Instagram and Youtube were built from the ground up in Python.
+Python libraries for Scientific Computing and Data Science are **extensive**, **secure**, and **mature**. Companies like Google, Microsoft, Apple, Dropbox, and Netflix, use Python for several critical applications, in particular the ones based on data processing and machine learning. Companies like Instagram and Youtube were built from the ground up in Python.
 
-In academia, Python is the facto standard for research and applications in artificial intelligence (AI), machine learning (ML), and big data analysis. All the major frameworks for AI and ML, i.e., [Tensorflow](https://www.tensorflow.org/), [Keras](https://keras.io/), [PyTorch](https://pytorch.org/), and [MXNet](https://mxnet.apache.org/), are based on Python. 
+In academia, Python is the facto standard for research and applications in artificial intelligence (AI), machine learning (ML), and big data analysis. All the major frameworks for AI and ML, i.e., [Tensorflow](https://www.tensorflow.org/), [Keras](https://keras.io/), [PyTorch](https://pytorch.org/), and [MXNet](https://mxnet.apache.org/), are based on Python.
 
 Python also has a continiously growing an strong presence in the Data Visualization field, with libraries like [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Altair](https://altair-viz.github.io/), and [Plotly](https://plotly.com/).
 
 Python presence in statistics is weaker and less mature than the one of languages like R, STATA, and SPSS. Libraries like [Statsmodels](https://www.statsmodels.org/stable/index.html) and [PyMC3](https://docs.pymc.io/) are in constant development and helping too close the gap between Python and other frameworks. This is not to say that you cannot do statistics in Python. As a matter of fact, you can do absolutely everything that can be done in other languages, but it may requiere more effort or more advance knowledge of Python.
 
-The two pillars of scientific computing in Python are **[NumPy](https://numpy.org/)** and **[Pandas](https://pandas.pydata.org/)**. NumPy is a library for numerical computing, particularly matrix-like computation. Pandas is a library for data analysis and data frame manipulation. NumPy and Pandas are commonly used in tandem as the base for any kind of data processing and modeling.  
+The two pillars of Scientific Computing and Data Science in Python are **[NumPy](https://numpy.org/)** and **[Pandas](https://pandas.pydata.org/)**. NumPy is a library for numerical computing, particularly matrix-like computation. Pandas is a library for data analysis and data frame manipulation. NumPy and Pandas are commonly used in tandem as the base for any kind of data processing and modeling.  
 
-In this mini-workshop, I focus in the fundamentals of **NumPy** and **Pandas** for scientific computing and data analysis in Python. I will also introduce Python basic syntax and characteristics such that you can use NumPy and Pandas effectively.
+In this project, I focus in the fundamentals of **NumPy** and **Pandas** for Data Science, Machine Learning, and Scientific Computing in Python. I will also plan to introduce the UNIX shell and Python basics such that you can use NumPy and Pandas effectively.
+
+If you want to acquire the math fundamentals before approaching Python and its libraries, I am working in a another project which covers that ([here](https://github.com/pabloinsente/math-app-ml)). The Linear Algebra chapters is the most important and can be found [here](https://pabloinsente.github.io/intro-linear-algebra).
 
 ## Table of contents
 
@@ -29,10 +28,10 @@ I'll cover the following topics:
 0. Introduction to the UNIX shell and Bash![progress](https://progress-bar.dev/25/ "progress")
 1. Introduction to Jupyter Notebooks: set-up, user-guide, and best practices  ![progress](https://progress-bar.dev/100/ "progress")
 2. Introduction to Python basics
-3. Introduction to NumPy   ![progress](https://progress-bar.dev/15/ "progress")
+3. Introduction to NumPy   ![progress](https://progress-bar.dev/35/ "progress")
 4. Introduction to Pandas
 
-The content of each section will be delivered as a Jupyter Notebook or Markdown files.
+The content of each section will be delivered as a Jupyter Notebook and/or Markdown files.
 
 ## Usage
 
@@ -45,7 +44,7 @@ The **local option** does require to follow a series of instructions to download
 1. downloading and installing terminal emulators like [GitBash](https://gitforwindows.org/) and [Cygwin](https://www.cygwin.com/)
 2. to install the [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
 
-If you are a beginner, [GitBash](https://gitforwindows.org/) and [Cygwin](https://www.cygwin.com/) should work just fine. I do not advise trying (WSL) unless you feel comfortable with using the terminal. 
+If you are a beginner, [GitBash](https://gitforwindows.org/) and [Cygwin](https://www.cygwin.com/) should work just fine. I do not advise trying (WSL) unless you feel comfortable with using the terminal.
 
 ### Option 1: Cloud-based environment (prefered)
 
