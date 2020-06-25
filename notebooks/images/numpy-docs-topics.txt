@@ -1,0 +1,68 @@
+**Future sections**: 
+
+- [NumPy universal functions]
+https://numpy.org/doc/stable/user/quickstart.html#universal-functions
+https://numpy.org/doc/stable/reference/c-api/generalized-ufuncs.html
+https://numpy.org/doc/stable/reference/ufuncs.html#available-ufuncs
+
+- [Array indexing]
+
+https://numpy.org/doc/stable/user/basics.indexing.html  
+https://numpy.org/doc/stable/user/basics.indexing.html#basics-indexing   
+https://numpy.org/doc/stable/reference/arrays.indexing.html
+
+
+- [Array masking]
+
+https://numpy.org/doc/stable/reference/routines.ma.html
+
+- [Array copy and views]
+
+https://numpy.org/doc/stable/user/quickstart.html#universal-functions
+https://numpy.org/doc/stable/reference/c-api/generalized-ufuncs.html
+https://numpy.org/doc/stable/reference/ufuncs.html#available-ufuncs
+
+
+- [Array logic and evaluation]
+
+https://numpy.org/doc/stable/reference/routines.logic.html
+
+- [Basic statistics with NumPy]
+
+https://numpy.org/doc/stable/reference/routines.statistics.html
+
+- [Basic linear algebra with NumPy]
+
+https://numpy.org/doc/stable/reference/routines.linalg.html  
+https://numpy.org/doc/stable/user/quickstart.html#vector-stacking
+
+- [NumPY Random sampling]
+
+https://numpy.org/doc/stable/reference/random/index.html
+
+- [Array string operations]
+
+https://numpy.org/doc/stable/reference/routines.char.html
+
+- [NumPY datetime functions]
+
+https://numpy.org/doc/stable/reference/routines.datetime.html
+
+- [Structured arrays]
+
+https://numpy.org/doc/stable/user/basics.rec.html
+- [Array iteration]
+
+https://numpy.org/doc/stable/user/c-info.beyond-basics.html
+
+- [NumPy constants and scalars]
+
+https://numpy.org/doc/stable/reference/constants.html  
+https://numpy.org/doc/stable/reference/arrays.scalars.html
+
+- [Input-output (I/O) data processing]
+
+https://numpy.org/doc/stable/user/basics.io.html  
+https://numpy.org/doc/stable/reference/routines.io.html
+
+- [Resources to learn more]
