@@ -28,7 +28,7 @@ I'll cover the following topics:
 0. Introduction to the UNIX shell and Bash![progress](https://progress-bar.dev/25/ "progress")
 1. Introduction to Jupyter Notebooks: set-up, user-guide, and best practices  ![progress](https://progress-bar.dev/100/ "progress")
 2. Introduction to Python basics
-3. Introduction to NumPy   ![progress](https://progress-bar.dev/35/ "progress")
+3. Introduction to NumPy   ![progress](https://progress-bar.dev/100/ "progress")
 4. Introduction to Pandas
 
 The content of each section will be delivered as a Jupyter Notebook and/or Markdown files.
